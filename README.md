@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello world!
 
-<!--
-**RolAlek/rolalek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## О себе:
+Меня зовут Александр и Python-разработчик. Имею опыт работы с Python 3.10, 3.11, Django, DRF, FastAPI, Flask, Docker, PostgreSQL, MongoDB, также умею в телеграм-ботов. Открыт для работы и сотрудничества!
 
-Here are some ideas to get you started:
+![Codewars](https://www.codewars.com/users/RolAlek/badges/micro)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Языки и технологии:
+![Python](https://img.shields.io/badge/-Python-4682B4?style=for-the-badge&logo=python&logoColor=FFFF00) ![Django](https://img.shields.io/badge/-Django-006400?style=for-the-badge&logo=django&logoColor=D3D3D3) ![Flask](https://img.shields.io/badge/-Flask-696969?style=for-the-badge&logo=flask&logoColor=D3D3D3) ![FastAPI](https://img.shields.io/badge/-FastAPI-20B2AA?style=for-the-badge&logo=fastapi&logoColor=D3D3D3) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4682B4?style=for-the-badge&logo=postgresql&logoColor=D3D3D3) ![SQLite](https://img.shields.io/badge/-SQLite-DCDCDC?style=for-the-badge&logo=sqlite&logoColor=00BFFF) ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FF00) ![Docker](https://img.shields.io/badge/-Docker-1E90FF?style=for-the-badge&logo=docker&logoColor=FFFFFF) ![NGinx](https://img.shields.io/badge/-Nginx-DCDCDC?style=for-the-badge&logo=nginx&logoColor=008000) ![HTML](https://img.shields.io/badge/-HTML-D2691E?style=for-the-badge&logo=html5&logoColor=D3D3D3) ![CSS](https://img.shields.io/badge/-CSS-00008B?style=for-the-badge&logo=css3&logoColor=FFFFFF) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-8A2BE2?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF)
+
+## Контакты:
+[![Telegram](https://img.shields.io/badge/-telegram-00BFFF?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](https://t.me/RolAlek)
+[![VK](https://img.shields.io/badge/-vkontakte-4682B4?style=for-the-badge&logo=vk&logoColor=FFFFFF)](https://vk.com/sasha_rol)
+[![EMAIL](https://img.shields.io/badge/-email-800000?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](arolka75@yandex.ru)
