@@ -1,4 +1,6 @@
-# Hello world!
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajJldHd3YmhrdXp2a2NpYmpmc3R5ZGs2YzEzbXB5ejFtb2p6OWthMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KxbZ21Jnz4YdaLN2co/giphy.gif" width="100"/>
+</div>
 
 ## О себе:
 Меня зовут Александр и Python-разработчик. Имею опыт работы с Python 3.10, 3.11, Django, DRF, FastAPI, Flask, Docker, PostgreSQL, MongoDB, также умею в телеграм-ботов. Открыт для работы и сотрудничества!
