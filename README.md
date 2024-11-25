@@ -3,7 +3,7 @@
 </div>
 
 ## О себе:
-Меня зовут Александр и Python-разработчик. Имею опыт работы с Python 3.10, 3.11, Django, DRF, FastAPI, Flask, Docker, PostgreSQL, MongoDB, также умею в телеграм-ботов. Открыт для работы и сотрудничества!
+Меня зовут Александр и я Python-разработчик. Имею опыт работы с Python 3.10, 3.11, Django, DRF, FastAPI, Flask, Docker, PostgreSQL, MongoDB, также умею в телеграм-ботов. Открыт для работы и сотрудничества!
 
 ![Codewars](https://www.codewars.com/users/RolAlek/badges/micro)
 
